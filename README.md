@@ -7,6 +7,9 @@ Machine Learning Projects
 Algorithms
 
 1. [ Linear Regression ](https://github.com/MHRupok/Machine-Learning/blob/master/Linear%20Regression.ipynb)
+2. [ KNN ](https://github.com/MHRupok/Machine-Learning/blob/master/KNN.ipynb)
+
+
 
 
 
